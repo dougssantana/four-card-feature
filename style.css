@@ -88,8 +88,8 @@ header {
 }
 
 .card-img {
-  max-width: 48px;
-  max-height: 48px;
+  max-width: 64px;
+  max-height: 64px;
   align-self: flex-end;
   margin-top: 2rem;
 }
